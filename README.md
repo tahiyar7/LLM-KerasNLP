@@ -15,7 +15,7 @@ Workflow
 
 # Result 	
 
-The F1 score is a measure of a test's accuracy and is especially useful when dealing with imbalanced datasets. An F1 score of 0.91 indicates a high level of accuracy, meaning that the test or model is performing well in terms of both precision and recall. To better understand this, let's break down the meaning of an F1 score and the components of a confusion matrix.
+The F1 score is a measure of a test's accuracy and is especially useful when dealing with imbalanced datasets. An F1 score of 0.91 indicates a high level of accuracy, meaning that the test or model is performing well in terms of both precision and recall. To better understand this, let's break down the meaning of an F1 score and the components of a confusion matrix. :headphones:
 
 
 
