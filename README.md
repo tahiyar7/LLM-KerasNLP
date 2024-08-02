@@ -9,7 +9,7 @@ Workflow
   Vizualization :framed_picture:
 - Add new dataset: :jigsaw:
   Visualization :framed_picture:
-- Prepare the data
+- Prepare the data :sewing_needle:
 - LLM Model: 
   Confusion Matrix :goggles:
 
