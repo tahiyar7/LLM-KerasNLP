@@ -7,7 +7,7 @@ Workflow
 - Import Library
 - Load & Explore: 
   Vizualization
-- Add new dataset: 
+- Add new dataset: :jigsaw:
   Visualization
 - Prepare the data
 - LLM Model: 
