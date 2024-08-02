@@ -6,7 +6,7 @@ Workflow
 - Install Package
 - Import Library
 - Load & Explore: :kite:
-  Vizualization
+  Vizualization :framed_picture:
 - Add new dataset: :jigsaw:
   Visualization :framed_picture:
 - Prepare the data
