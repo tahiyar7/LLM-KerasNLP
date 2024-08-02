@@ -5,7 +5,7 @@ Hi this is Tahiya. This project has used two diffrenet sets of dataset to unders
 Workflow
 - Install Package
 - Import Library
-- Load & Explore: 
+- Load & Explore: :kite:
   Vizualization
 - Add new dataset: :jigsaw:
   Visualization :framed_picture:
