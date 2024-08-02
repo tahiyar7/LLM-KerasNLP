@@ -8,7 +8,7 @@ Workflow
 - Load & Explore: 
   Vizualization
 - Add new dataset: :jigsaw:
-  Visualization
+  Visualization :framed_picture:
 - Prepare the data
 - LLM Model: 
   Confusion Matrix :goggles:
